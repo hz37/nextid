@@ -1,7 +1,7 @@
 #/usr/local/bin/python3
 
 # Generator and storage of customer invoice id.
-# Hens Zimmerman, 13-06-2021, python3. MacOS  only.
+# Hens Zimmerman, 13-06-2021, python3. MacOS only.
 
 # ID has the following format:
 
